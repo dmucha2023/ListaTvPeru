@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,America Television|SD|
 http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
+#EXTINF:-1,America Television|HD|
+http://38.43.140.97:8000/play/a00v/index.m3u8
 #EXTINF:-1,Latina.|SD|
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 #EXTINF:-1,Movistar Deportes|SD|
