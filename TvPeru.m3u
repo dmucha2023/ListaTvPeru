@@ -5,47 +5,27 @@ http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
 http://38.43.140.97:8000/play/a00v/index.m3u8
 #EXTINF:-1,Latina.|SD|
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+#EXTINF:-1,Panamericana|SD|
+https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1,Movistar Deportes|SD|
 http://disfruta.club:8000/live/veoplay/veoplaypro/235.ts
-#EXTINF:-1,Panamericana|SD|
-http://z3.reporteperuano.com:1935/liverp3/zrhn/master.m3u8
-#EXTINF:-1,Peru Magico.|SD|
-http://disfruta.club:8000/live/veoplay/veoplaypro/233.ts
-#EXTINF:-1,GOL PERU|SD|
+#EXTINF:-1,Movistar Deportes|HD|
+http://38.43.140.97:8000/play/a00l/index.m3u8
+#EXTINF:-1,GOLPERU|SD|
 http://disfruta.club:8000/live/veoplay/veoplaypro/4367.ts
-#EXTINF:-1,TVPE|HD|
-http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1,BHTV|SD|
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1,GOLPERU|HD|
+http://38.43.140.97:8000/play/a00y/index.m3u8
+#EXTINF:-1,TVPeru|HD|
+http://190.108.83.142:8000/play/a00i/index.m3u8
 #EXTINF:-1,ATV|SD|
-http://disfruta.club:8000/live/veoplay/veoplaypro/139.ts
+https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
 #EXTINF:-1,IPE|SD|
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1,DIGITAL|SD|
-http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,CAPITAL|HD|
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
-#EXTINF:-1,TOP LATINO|SD|
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
-#EXTINF:-1,RBC|SD|
-http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
-#EXTINF:-1,MEGA|SD|
-http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
-#EXTINF:-1,VIA|SD|
-http://wse8.player.tv.br:1935/viatv/viatv/playlist.m3u8
-#EXTINF:-1,ANTARES|SD|
-http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1,COSMOS|SD|
-http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w1894813156.m3u8
-#EXTINF:-1,PACIFICO|SD|
-http://cdn2.ujjina.com:1935/iptvpacifico/livepacificotv/playlist.m3u8
-#EXTINF:-1,MONTERRICO|SD|
-http://bit.ly/Monterrico-TvNinjaxD?Peru.m3u8
+#EXTINF:-1,GlobalTV|SD|
+http://190.108.83.142:8000/play/a00x/index.m3u8
 #EXTINF:-1,TVPE|SD|
 http://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:-1,TVNOTICIAS|SD|
-http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,ATV+|SD|
-http://bit.do/Pe-Tvninjaxd-10?Live.tv.m3u8
+https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
 #EXTINF:-1,ESPN|HD|
 http://38.43.140.97:8000/play/a03x/index.m3u8
