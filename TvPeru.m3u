@@ -47,3 +47,5 @@ http://cdnh4.iblups.com/hls/irtp.m3u8
 http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,ATV+|SD|
 http://bit.do/Pe-Tvninjaxd-10?Live.tv.m3u8
+#EXTINF:-1,ESPN|HD|
+http://38.43.140.97:8000/play/a03x/index.m3u8
