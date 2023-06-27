@@ -17,6 +17,8 @@ https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
 https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
 #EXTINF:-1,ESPN|HD|
 http://38.43.140.97:8000/play/a03x/index.m3u8
+#EXTINF:-1,TyC Sports|HD|
+http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/169077
 #EXTINF:-1,AntaresTelevision.pe|SD|
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1,AutenticaTelevision.pe|SD|
@@ -32,7 +34,6 @@ https://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:-1,CRTelevision.pe|SD|
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1,DMJ(Cuzco).pe|SD|
-#EXTINF:-1 tvg-id="DMJ.pe" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="General",DMJ (Cuzco) (720p) [Not 24/7]
 https://v4.tustreaming.cl/s1tv/playlist.m3u8
 #EXTINF:-1,ExitosaTV.pe|SD|
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
