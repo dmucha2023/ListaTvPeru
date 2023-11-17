@@ -17,6 +17,8 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
 #EXTINF:-1,ATV+ SD
 https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
+#EXTINF:-1,EXITOSA SD
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:-1,Animal Planet HD
 http://38.43.140.97:8000/play/a01g/index.m3u8
 #EXTINF:-1,CNN Espanol
