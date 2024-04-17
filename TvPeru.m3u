@@ -42,7 +42,7 @@ https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 #EXTINF:-1,MegaTV.pe|SD|
 https://hls.servidor.stream/storage/megatv.m3u8
 #EXTINF:-1,Nativa.pe|SD|
-https://servilive.com:3449/live/mlecaroslive.m3u8
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1,OvacionTV.pe|SD|
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1,PBO.pe|SD|
